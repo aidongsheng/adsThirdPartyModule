@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'adsThirdPartyModule_Example' do
+  pod 'adsThirdPartyModule', :path => '../'
+
+  target 'adsThirdPartyModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
