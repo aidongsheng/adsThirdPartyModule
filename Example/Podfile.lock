@@ -1,0 +1,16 @@
+PODS:
+  - adsThirdPartyModule (0.0.1)
+
+DEPENDENCIES:
+  - adsThirdPartyModule (from `../`)
+
+EXTERNAL SOURCES:
+  adsThirdPartyModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  adsThirdPartyModule: 00b12a62550f07f19945f560387d359fa89f9994
+
+PODFILE CHECKSUM: 4de1ddf15971075545d8ecda430a9202624cc97f
+
+COCOAPODS: 1.2.1

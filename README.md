@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # adsThirdPartyModule
 
 [![CI Status](http://img.shields.io/travis/aidongsheng/adsThirdPartyModule.svg?style=flat)](https://travis-ci.org/aidongsheng/adsThirdPartyModule)
@@ -27,3 +28,6 @@ aidongsheng, coding_ai@qq.com
 ## License
 
 adsThirdPartyModule is available under the MIT license. See the LICENSE file for more info.
+=======
+# adsThirdPartyModule
+>>>>>>> bb7cedee57457976f75070b581cfa5899dfe337f

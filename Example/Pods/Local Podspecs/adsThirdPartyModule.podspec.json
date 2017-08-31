@@ -1,0 +1,22 @@
+{
+  "name": "adsThirdPartyModule",
+  "version": "0.0.1",
+  "summary": "第三方相关模块",
+  "description": "TODO: 第三方登录、支付、分享",
+  "homepage": "https://github.com/aidongsheng/adsThirdPartyModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aidongsheng": "coding_ai@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/aidongsheng/adsThirdPartyModule.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "adsThirdPartyModule/Classes/**/*.{h,m}"
+}
